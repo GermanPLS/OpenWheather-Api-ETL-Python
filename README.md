@@ -28,6 +28,8 @@ Este proyecto realiza la conexión con la API de OpenWeather para obtener datos 
 ```bash
 pip install -r requirements.txt
 python weather_api.py
+
 📌 Autor
+
 German Pablo Leventan Sago
 GitHub
