@@ -14,14 +14,14 @@ Este proyecto realiza la conexión con la API de OpenWeather para obtener datos 
 - Requests
 - JSON
 - Pandas
-- (Opcional: Google Cloud Storage / BigQuery)
+
 
 ## 📌 Funcionalidad
 
 1. Consulta datos del clima actual (por ciudad) desde la API de OpenWeather.
 2. Procesa los datos en formato JSON → DataFrame.
 3. Exportación a CSV para análisis posterior.
-4. (Sugerido: carga a BigQuery para análisis en la nube)
+
 
 ## 🚀 Cómo ejecutar
 
